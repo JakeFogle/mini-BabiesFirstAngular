@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+	background-color: lightblue;
+}
+
+h1 {
+	text-align: center;
+}
+
+div {
+	height: 15%;
+	width: 20%;
+	background-color: lightgray;
+	float: left;
+	margin: 2.2%;
+	text-align: center;
+	color: black;
+	font-size: 28px;
+	border-radius: 80%;
+	line-height: 1.5;
+}
